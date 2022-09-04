@@ -1,0 +1,1 @@
+An engine for my food index and nutritional database, designed to work with my own projects, along with other peoples projects. Name is a commonly used (by me) slang abbreviation for chocolate milk, and also related to the C programming language
